@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Saigoud117
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Full-Stack using Python
+- ✨ I've completed training of PowerBI(basic concepts), C, MySQL, Java
 - 📫 How to reach me my mail id is ksaiprasad31@gmail.com
 
 <!---
